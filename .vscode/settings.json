@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "./env_3119/bin/python",
+  "python.defaultInterpreterPath": "./env_3119/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": ["./env_3119/lib/python3.11/site-packages"],
+  "python.analysis.autoImportCompletions": true
+}
